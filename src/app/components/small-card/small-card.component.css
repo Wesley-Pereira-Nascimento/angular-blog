@@ -18,6 +18,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 12px;
+}
+.small-card_title > h1{
+  font-size: 20px;
 }
 .container_small-card_separator{
   margin-top: 10px;
